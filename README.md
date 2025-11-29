@@ -1,3 +1,1 @@
-# scRNA-seq
-
-1. We have only tested datasets that are after batch intergration.
+This is an old version, please see here for the updated version. https://github.com/CrossOmics/Lotus
